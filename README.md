@@ -7,7 +7,8 @@ Welkom op mijn GitHub! Ik ben een **softwareontwikkelaar** met een passie voor *
 ## 📚 Over Mij
 
 - 🎓 Ik studeer aan **Thomas More Hogeschool**.
-- 💻 Werk momenteel aan projecten die variëren van **webapplicaties** 
+- 💻 22 jaar oud
+- 📍 België 
 
 ---
 
