@@ -24,6 +24,7 @@ Mijn persoonlijke portfolio, gebouwd met React en Tailwind CSS. Hier kun je mijn
 📍 **Technologieën**: React, Tailwind CSS
 
 ### 2.  **[Weather](https://www.weather.yennekens.be)**
+Mijn persoonlijke portfolio, gebouwd met React en Tailwind CSS. Hier kun je mijn projecten ontdekken en meer over mij leren. 
 📍 **Technologieën**: React, Tailwind CSS
 ---
 
