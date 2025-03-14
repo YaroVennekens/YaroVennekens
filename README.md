@@ -17,12 +17,14 @@ Ik ben trots op de projecten die ik heb gebouwd en altijd bezig met nieuwe idee�
 
 ### 1. **[2048](https://www.2048.yennekens.be)**
 Een interactieve versie van het populaire 2048-spel
-📍 **Technologieën**: React, TypeScript, CSS
+📍 **Technologieën**: React, TypeScript, Tailwind CSS
 
 ### 2.  **[Portfolio](https://www.yennekens.be)**
 Mijn persoonlijke portfolio, gebouwd met React en Tailwind CSS. Hier kun je mijn projecten ontdekken en meer over mij leren.  
 📍 **Technologieën**: React, Tailwind CSS
 
+### 2.  **[Weather](https://www.weather.yennekens.be)**
+📍 **Technologieën**: React, Tailwind CSS
 ---
 
 ## 🔧 Huidige Technologieën
