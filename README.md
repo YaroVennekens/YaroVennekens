@@ -29,7 +29,7 @@ Mijn persoonlijke portfolio, gebouwd met React en Tailwind CSS. Hier kun je mijn
 ## 🔧 Huidige Technologieën
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Next.js, Astro
-- **Backend**: Node.js, Express, Firebase,
+- **Backend**: Node.js, Express, Firebase, C#
 
 
 ## 📫 Hoe Je Mij Kunt Bereiken
