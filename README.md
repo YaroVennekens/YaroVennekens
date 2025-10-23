@@ -18,5 +18,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YaroVennekens&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=YaroVennekens&theme=dark&hide_border=false)<br/>
 
 
